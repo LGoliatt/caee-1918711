@@ -34,9 +34,6 @@ The curriculum is divided into **10 Modules** organized over a **5-Day** intensi
 ### 📅 Day 5: Final Projects
 * `Module-10-day-5.ipynb`: Case studies and capstone project integration.
 
-### 🛠️ Utilities
-* `git_update.sh`: Helper script for repository synchronization.
-
 ## 🚀 Getting Started
 
 ### Prerequisites
