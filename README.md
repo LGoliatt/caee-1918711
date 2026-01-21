@@ -60,9 +60,8 @@ To run these notebooks, you will need a Python environment (Python 3.8+) with th
 
 ## 📖 Citation
 
-If you use this material in your research or curriculum, please cite the associated paper submitted to *Computer Applications in Engineering Education*.
+If you use this material in your research or curriculum, please cite [TO BE INCLUDED] the associated paper submitted to *Computer Applications in Engineering Education*.
 
 ---
-*Disclaimer: This repository is part of an academic submission. Please ensure you have the appropriate permissions before reproducing this material for commercial purposes.*
 
 
