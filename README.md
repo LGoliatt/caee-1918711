@@ -4,13 +4,13 @@
 **Repository ID:** caee-1918711  
 **Context:** Supplementary material for submission to *Computer Applications in Engineering Education*.
 
-## 📌 Overview
+## Overview
 
 This repository contains the source code and curriculum materials for the project **"Integrating Machine Learning into Environmental Engineering Education: Design, Implementation, and Outcomes of an Interdisciplinary Course."**
 
 The course is designed to bridge the gap between data science and environmental engineering, providing a structured, hands-on approach to applying machine learning techniques to environmental datasets.
 
-## 📂 Repository Structure
+## Repository Structure
 
 The curriculum is divided into **10 Modules** organized over a **5-Day** intensive schedule. All materials are provided as interactive Jupyter Notebooks.
 
@@ -34,7 +34,7 @@ The curriculum is divided into **10 Modules** organized over a **5-Day** intensi
 ### 📅 Day 5: Final Projects
 * `Module-10-day-5.ipynb`: Case studies and capstone project integration.
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 To run these notebooks, you will need a Python environment (Python 3.8+) with the following core libraries installed:
@@ -58,7 +58,7 @@ To run these notebooks, you will need a Python environment (Python 3.8+) with th
 
 3.  **Navigate:** Open `Module-01-day-1.ipynb` to begin the course sequence.
 
-## 📖 Citation
+## Citation
 
 If you use this material in your research or curriculum, please cite [TO BE INCLUDED] the associated paper submitted to *Computer Applications in Engineering Education*.
 
